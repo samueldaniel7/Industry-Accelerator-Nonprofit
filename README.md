@@ -47,8 +47,6 @@ Click "release" tab on the top or click this [link](https://github.com/microsoft
 ## Contributing
 
 * [CLA](#Contributor-License-Agreement-(CLA))
-* [Solutions](#work-in-progress)
-	
 
 ## Contributor License Agreement (CLA)
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
