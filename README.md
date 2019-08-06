@@ -1,3 +1,5 @@
+Customized for LEADS
+
 # Nonprofit Accelerator
 Hello ISVs, SIs, Partners and Customers - Your success is our goal.
 This Repository helps you to Connect, Extend, Build and Contribute to Microsoft Industry Nonprofit accelerator.
@@ -33,34 +35,3 @@ The Microsoft Common Data Model for Nonprofits is the first of its kind to provi
 
 Click "release" tab on the top or click this [link](https://github.com/microsoft/Industry-Accelerator-Nonprofit/releases) to navigate to latest release details and download the latest release assets.
 
-
-## Get to know about other Industry Accelerators
-
-| Industry Accelerators | Description |
-|-------------|----------------------|
-| [Automotive Accelerator](https://github.com/Microsoft/Industry-Accelerator-Automotive) |  Rapidly develop test drives, vehicle specifications and service appointment scheduling solutions. The Microsoft Auto Accelerator empowers customers and users to schedule appointments and services facilitated through proactive communications. Get more details from [Dynamics 365 ISV Success community](https://community.dynamics.com/365/b/dynamics365isvsuccess)|
-| [Financial Services Accelerator](https://github.com/Microsoft/Industry-Accelerator-FinancialServices) | Rapidly develop Banking solutions using entities such as loan, mortgage, referrals, branch, collateral, deal, limit, facilities, and more. Get more details from [Dynamics 365 ISV Success community](https://community.dynamics.com/365/b/dynamics365isvsuccess)|
-| [Health Accelerator](https://github.com/Microsoft/Industry-Accelerator-Health) |  Rapidly develop healthcare solutions using FHIR entities such as patient, condition, and care plan. The Microsoft Health Accelerator enables partners and customers to create new use cases and workflows using a FHIR-based data model. Get more details from [Dynamics 365 ISV Success community](https://community.dynamics.com/365/b/dynamics365isvsuccess)|
-| [Higher Education Accelerator](https://github.com/Microsoft/Industry-Accelerator-Education) |  Rapidly build solutions for Higher Education using entities such as student, course, and test scores.  Get more details from [Dynamics 365 ISV Success community](https://community.dynamics.com/365/b/dynamics365isvsuccess)|
-
-## Contributing
-
-* [CLA](#Contributor-License-Agreement-(CLA))
-
-## Contributor License Agreement (CLA)
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
-
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## License
-Copyright (c) Microsoft Corporation. All rights reserved.
-Licensed under the MIT License.
-This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
