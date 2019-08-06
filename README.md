@@ -1,19 +1,5 @@
 Customized for LEADS
 
-# Nonprofit Accelerator
-Hello ISVs, SIs, Partners and Customers - Your success is our goal.
-This Repository helps you to Connect, Extend, Build and Contribute to Microsoft Industry Nonprofit accelerator.
-
-# Table of Contents
-
-* [Nonprofit Accelerator](#nonprofit-accelerator)
-
-  * [Introduction](#Microsoft-Dynamics-365-Announces-Industry-Accelerators)
-  * [Overview](#Overview-of-the-Industry-Nonprofit-Accelerator)
-  * [Releases](#Releases)
-  * [Other Industry Accelerator](#Get-to-know-about-other-Industry-Accelerators)
-  * [Contributing](#Contributing)
-  
   
 ## Microsoft Dynamics 365 Announces Industry Accelerators
 
